@@ -1,1 +1,1 @@
-# Sphinx-Logic-Letter-of-Recomendation
+# Sphinx-Logic-Letters-of-Recomendation
